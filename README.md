@@ -7,6 +7,5 @@ Les [réglages, c'est par là](../../settings).
 
 [Éditez ce fichier en cliquant ici](../../edit/master/README.md).
 
-une modification
-une second modification
-une troisieme modification
+modification de README pour site
+
