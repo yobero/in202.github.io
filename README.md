@@ -11,5 +11,6 @@ modification de README pour site
 ajout de index.html
 ajout de cv.html
 ajout du dossier css + style.css
+ajout de l'image de profil
 
 
