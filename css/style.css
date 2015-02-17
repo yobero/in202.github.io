@@ -1,5 +1,9 @@
 body{
-	background-color: gray;
+	background-image: url(fond1.jpg);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-position:center center;
+	
 	text-align:center;
 	margin-right: auto;
     margin-left: auto;
@@ -7,7 +11,8 @@ body{
 	}
 	
 section{
-	background-color: darkgray;
+	background-color: rgba(0, 255, 0, 0.5);
+	
 	border-style : outset ;
 	border-color: red;
 	border-width : 5px;
@@ -15,6 +20,11 @@ section{
 	box-shadow: 10px 15px 6px black ;
 	padding: 3px;
 	 
+}
+
+#titre {
+	color: yellow;
+	
 }
 
 h2 {
