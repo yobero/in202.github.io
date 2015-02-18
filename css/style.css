@@ -63,6 +63,29 @@ ol,ul {
 	 list-style-type:none; 
 }
 
+@media (max-width: 1000px) {
+    body {
+        background-image:url(fond2.jpg);
+		background-attachment:fixed;
+    }
+	
+	#titre {
+		font-size: 160%;
+	}
+	
+	.cours {
+		color:yellow;
+	}
+	
+	section {
+		background-color: rgba(0, 100, 255, 0.5);
+	}
+	
+	h2 {
+		color: yellow ;
+	}
+}
+
 @media (max-width: 600px) {
     body {
         background-image:url(fond2.jpg);
