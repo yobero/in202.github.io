@@ -24,6 +24,39 @@ section{
 	 
 }
 
+h4#A1 {
+	background-color: rgba(0, 255, 0, 0.6);
+	
+	border-style : outset ;
+	border-color: red;
+	border-width : 5px;
+	border-radius: 20px; 
+	box-shadow: 10px 15px 6px black ;
+	padding: 3px;
+}
+
+h4#A2 {
+	background-color: rgba(255, 100, 0, 0.6);
+	
+	border-style : outset ;
+	border-color: darkgreen;
+	border-width : 5px;
+	border-radius: 20px; 
+	box-shadow: 10px 15px 6px black ;
+	padding: 3px;
+}
+
+h4#A3 {
+	background-color: rgba(0, 100, 255, 0.6);
+	
+	border-style : outset ;
+	border-color: darkgreen;
+	border-width : 5px;
+	border-radius: 20px; 
+	box-shadow: 10px 15px 6px black ;
+	padding: 3px;
+}
+
 #titre {
 	color: yellow;
 	
