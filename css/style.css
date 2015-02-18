@@ -65,24 +65,41 @@ ol,ul {
 
 @media (max-width: 1000px) {
     body {
-        background-image:url(fond2.jpg);
+        background-image:url(fond3.jpg);
 		background-attachment:fixed;
     }
 	
+	section {
+		border-color: darkgreen;
+	}
+	
 	#titre {
-		font-size: 160%;
+		font-size: 270%;
+		color: darkblue;
 	}
 	
 	.cours {
-		color:yellow;
+		color:darkblue;
 	}
 	
 	section {
-		background-color: rgba(0, 100, 255, 0.5);
+		background-color: rgba(255, 100, 0, 0.6);
 	}
 	
 	h2 {
-		color: yellow ;
+		color: darkblue ;
+	}
+	
+	.primaire {
+		color : white; 
+	}
+
+	.secondaire {
+		color: white;
+	}
+	
+	#PS {
+		color: darkblue;
 	}
 }
 
@@ -94,6 +111,7 @@ ol,ul {
 	
 	#titre {
 		font-size: 160%;
+		color: white;
 	}
 	
 	.cours {
@@ -106,6 +124,14 @@ ol,ul {
 	
 	h2 {
 		color: yellow ;
+	}
+	
+	.primaire {
+		color : white; 
+	}
+
+	.secondaire {
+		color: white;
 	}
 }
 
