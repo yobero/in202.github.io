@@ -63,7 +63,7 @@ ol,ul {
 	 list-style-type:none; 
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 2000px) {
     body {
         background-image:url(fond3.jpg);
 		background-attachment:fixed;
@@ -101,9 +101,13 @@ ol,ul {
 	#PS {
 		color: darkblue;
 	}
+	
+	footer {
+		color: white;
+	}
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1200px) {
     body {
         background-image:url(fond2.jpg);
 		background-attachment:fixed;
