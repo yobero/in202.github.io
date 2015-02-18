@@ -42,7 +42,7 @@ h2 {
 }
 
 #titre{
-	font-size: 500%;
+	font-size: 490%;
 	
 }
 footer {
@@ -87,7 +87,7 @@ ol,ul {
 	}
 	
 	h2 {
-		color: darkblue ;
+		color: darkgreen ;
 	}
 	
 	.primaire {
@@ -132,6 +132,10 @@ ol,ul {
 
 	.secondaire {
 		color: white;
+	}
+	
+	#PS {
+		color: yellow;
 	}
 }
 
