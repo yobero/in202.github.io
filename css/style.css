@@ -28,10 +28,6 @@ section.yoann {
 	padding: 40px;
 }
 
-li {
-	display:inline-block;
-}
-
 h4#A1 {
 	background-color: rgba(0, 255, 0, 0.6);
 	
@@ -93,7 +89,12 @@ footer {
 }
 
 .primaire {
+	display: inline-block;
 	color : red;
+}
+
+.second {
+	display:inline-block;
 }
 
 .secondaire {
@@ -169,16 +170,17 @@ ol,ul {
 		border-radius: 200px;
 	}
 	
-	li {
-	display:block;
-	}
-	
 	h2 {
 		color: yellow ;
 	}
 	
 	.primaire {
 		color : white; 
+		display: block;
+	}
+	
+	.second {
+		display:block;
 	}
 
 	.secondaire {
