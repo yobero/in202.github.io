@@ -28,6 +28,10 @@ section.yoann {
 	padding: 40px;
 }
 
+li {
+	display:inline-block;
+}
+
 h4#A1 {
 	background-color: rgba(0, 255, 0, 0.6);
 	
@@ -163,6 +167,10 @@ ol,ul {
 	section {
 		background-color: rgba(0, 100, 255, 0.5);
 		border-radius: 200px;
+	}
+	
+	li {
+	display:block;
 	}
 	
 	h2 {
